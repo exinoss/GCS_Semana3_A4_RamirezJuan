@@ -4,8 +4,13 @@ Este archivo registra los cambios relevantes del proyecto. Cada entrada referenc
 
 ## Sin publicar
 
+## [1.0.0] - 2026-07-31
+
+Línea base inicial del proyecto.
+
 - Se agrega el plan de gestión de configuración con los elementos de configuración identificados, ver CM_PLAN.md.
 - Se agrega la especificación de requisitos versión 1, con los requisitos funcionales RF-01 a RF-06 y los no funcionales RNF-01 a RNF-03, ver docs/SRS/SRS_v1.md.
 - Se agregan los módulos de catálogo, carrito y pedidos, con sus pruebas unitarias correspondientes, ver src/ y tests/.
 - Se agrega un archivo de configuración de ejemplo, sin datos sensibles reales, ver config/config.example.json.
 - Se agrega el modelo de calidad basado en ISO IEC 25010, con seis atributos traducidos a métricas verificables, ver docs/Quality/Quality_Model.md.
+- Se agrega el análisis de impacto en el ciclo de vida del cambio de trazabilidad RF-06, ver docs/Lifecycle/Lifecycle_Impact.md.
