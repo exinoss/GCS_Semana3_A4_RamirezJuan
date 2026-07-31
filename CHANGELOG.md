@@ -4,6 +4,8 @@ Este archivo registra los cambios relevantes del proyecto. Cada entrada referenc
 
 ## Sin publicar
 
+- Se agrega el campo requirement_ref al pedido, exigido en la creación de todo pedido según RF-06, con evidencia en tests/test_orders.py.
+
 ## [1.0.0] - 2026-07-31
 
 Línea base inicial del proyecto.
