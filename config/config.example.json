@@ -1,0 +1,7 @@
+{
+  "currency": "USD",
+  "cart_expiration_minutes": 30,
+  "max_search_response_ms": 2000,
+  "database_url": "REPLACE_ME",
+  "payment_gateway_key": "REPLACE_ME"
+}
